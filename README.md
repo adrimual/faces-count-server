@@ -2,7 +2,7 @@
 
 
 ## Description
-A simple project made with React, NodeJS and Express to consolidate my bases and knowledge about React and NodeJs.
+A simple project made with React, NodeJS, Express and PostgreSQL to consolidate my bases and knowledge about React and NodeJs.
 Create an account and start analizing faces. Each user has a counter to see who is the person with most entries.
 
 ## User Stories
