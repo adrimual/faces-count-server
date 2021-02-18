@@ -26,8 +26,9 @@ app.use(cors());
 app.get('/', (req, res) => res.send('success'));
 app.post("/signin", signin.handleSignIn(db, bcrypt))
 app.post("/register" , register.handleRegister(db, bcrypt))
-app.get("/profile/:id", profile.getProfileId (db)) 
-app.put("/image", image.getImageCount(db))
+app.get("/profile/:id", profile.handleProfile (db)) 
+app.put("/image", image.handleImage(db))
+app.post("/imageurl", (req, res) =>  image.handleApiCall(req, res))
 
 app.listen(3001, () => {
     console.log('app is running in port 3001')
