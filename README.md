@@ -24,3 +24,8 @@ Create an account and start analizing faces. Each user has a counter to see who 
 | post   | /register                           |  {email, name, password}                                     | Create new user                      |
 | get    | /profile/:id                        |  via req.params -> {id}                                      | Get the user ID                      |
 | put    | /image                              |  {id}                                                        | Increases the entries counter        |
+
+
+## Deployment 
+
+[Link] : https://faces-count.herokuapp.com/
