@@ -28,4 +28,4 @@ Create an account and start analizing faces. Each user has a counter to see who 
 
 ## Deployment 
 
-[Link] : https://faces-count.herokuapp.com/
+**Link** : https://faces-count.herokuapp.com/
