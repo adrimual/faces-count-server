@@ -26,4 +26,6 @@ Create an account and start analizing faces. Each user has a counter to see who 
 | put    | /image                              |  {id}                                                        | Increases the entries counter        |
 
 
+## Deployment 
 
+**Link** : https://faces-count.herokuapp.com/
