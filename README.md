@@ -2,14 +2,14 @@
 
 
 ## Description
-A simple project made with React, NodeJS, Express and PostgreSQL to consolidate my bases and knowledge about React and NodeJs.
+A simple project made with React, NodeJS, Express and PostgreSQL to consolidate my bases and knowledge about React, NodeJs and SQL.
 Create an account and start analizing faces. Each user has a counter to see who is the person with most entries.
 
 ## User Stories
 
-- **Signup:** As an anon I can sign up in the platform so that I can start searching for events
-- **Login:** As a user I can login to the platform so that I can search, create and join new events
-- **Logout:** As a user I can logout from the platform so no one else can use it
+- **Signup:** As an anon I can create an account to enter the platform.
+- **Login:** As a user I can login to the platform so that I can start analazing faces.
+- **Logout:** As a user I can end my current session from the platform.
 - **Search Face:** As a user I can put an image URL and get face detection from the image
 - **User Ranking:** As a user I can increase my ranking for every face detected.
 
